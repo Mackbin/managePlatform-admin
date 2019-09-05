@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shouqicaidan" unicode="&#58914;" d="M192.037 608.047h640.124c17.673 0 32 14.327 32 32s-14.327 32-32 32H192.037c-17.673 0-32-14.327-32-32s14.327-32 32-32zM832.161 416.831H438.553c-17.673 0-32-14.327-32-32s14.327-32 32-32h393.608c17.673 0 32 14.327 32 32s-14.327 32-32 32zM832.161 160.198H192.037c-17.673 0-32-14.327-32-32s14.327-32 32-32h640.124c17.673 0 32 14.327 32 32s-14.327 32-32 32zM319.028 544.406l-160-160 160-160z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
