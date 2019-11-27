@@ -5,7 +5,7 @@ import qs from 'qs'
 
 // 创建axios实例
 const http = axios.create({
-    baseURL: 'https://easy-mock.com/mock/5c2709b7c47a223b9fc3e9f2/lybzj',
+    baseURL: 'http://rap2api.taobao.org/app/mock/160700/login',
     // baseURL: 'http://10.125.188.195',
     // baseURL: 'http://18.141.69.132',
     timeout: 6000, // 请求超时时间
